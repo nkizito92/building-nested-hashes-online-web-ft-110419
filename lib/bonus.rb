@@ -26,5 +26,6 @@ def bonus
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy[:montague][:hero][2] = "dead"
+  epic_tragedy[:capulet][:heroine][2] = "dead"
 
 end
